@@ -141,7 +141,6 @@ toml==0.10.2
 torch==2.5.1
 tornado==6.4.2
 tqdm==4.67.1
-transformers==4.47.1
 trio==0.27.0
 trio-websocket==0.11.1
 typer==0.15.1
